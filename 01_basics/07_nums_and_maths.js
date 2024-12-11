@@ -10,3 +10,8 @@ console.log(balance.toFixed(2));
 const otherNumber = 123.7878
 
 console.log(otherNumber.toPrecision(3));
+
+// maths
+
+console.log(Math.abs(-4));
+console.log(Math.round(4.6));
