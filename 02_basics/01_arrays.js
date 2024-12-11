@@ -1,0 +1,3 @@
+// arrays
+
+console.log("arrays");
