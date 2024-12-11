@@ -8,3 +8,5 @@ const myArr2 = new Array(1, 2, 3)
 // Array method
 myArr.push(6)
 console.log(myArr);
+
+
